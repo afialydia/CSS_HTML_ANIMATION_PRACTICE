@@ -67,6 +67,11 @@ font-size: 3rem;
     transform: translateZ(4rem);
 }
 
+
+title {
+    color: grey;
+}
+
 .input-container {
     display: flex;
     flex-direction: column;
@@ -85,3 +90,4 @@ p{
     font-family: 'Bangers', cursive;
 
 }
+
