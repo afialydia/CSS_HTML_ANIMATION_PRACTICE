@@ -68,6 +68,12 @@ font-size: 3rem;
     transform: translateZ(4rem);
 }
 
+.button button{
+    padding: 30px;
+    
+}
+
+
 
 title {
     color: grey;
@@ -91,4 +97,5 @@ p{
     font-family: 'Bangers', cursive;
 
 }
+
 
