@@ -67,6 +67,14 @@ font-size: 3rem;
     transform: translateZ(4rem);
 }
 
+.input-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 20px;
+}
+
+.input-box {
+    border: 2px solid #000;
 /*==================base styles==============*/
 
 h1,
@@ -75,4 +83,5 @@ h3,
 h4,
 p{
     font-family: 'Bangers', cursive;
+
 }
