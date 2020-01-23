@@ -25,7 +25,7 @@ body{
     position: relative;
     padding:5em;
     transition: transform 3s;
-    background:teal;
+    background:dodgerblue;
     transform-style: preserve-3d;
 
 }
@@ -46,7 +46,7 @@ body{
 
 .card__back{
     transform: rotateY(.5turn);
-    background: lime;
+    background: darkgoldenrod;
 }
 
 
