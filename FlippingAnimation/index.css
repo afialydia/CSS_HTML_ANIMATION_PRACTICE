@@ -25,7 +25,7 @@ body{
     position: relative;
     padding:5em;
     transition: transform 3s;
-    background:teal;
+    background:dodgerblue;
     transform-style: preserve-3d;
 
 }
@@ -46,7 +46,7 @@ body{
 
 .card__back{
     transform: rotateY(.5turn);
-    background: lime;
+    background: forestgreen;
 }
 
 
@@ -67,6 +67,27 @@ font-size: 3rem;
     transform: translateZ(4rem);
 }
 
+
 title {
     color: grey;
 }
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 20px;
+}
+
+.input-box {
+    border: 2px solid #000;
+/*==================base styles==============*/
+
+h1,
+h2,
+h3, 
+h4,
+p{
+    font-family: 'Bangers', cursive;
+
+}
+
