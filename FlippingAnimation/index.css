@@ -66,3 +66,8 @@ font-size: 3rem;
 .back{
     transform: translateZ(4rem);
 }
+img {
+    display:flex;
+    width: 30%;
+    justify-content: center;  
+}
