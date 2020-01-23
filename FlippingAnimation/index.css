@@ -66,3 +66,7 @@ font-size: 3rem;
 .back{
     transform: translateZ(4rem);
 }
+.button button{
+    padding: 30px;
+    
+}
